@@ -21,20 +21,22 @@ body {
   background-color: greenyellow;
   position: relative;
   top: 150px;
-  animation: char 1s linear infinite;
+}
+.animate {
+  animation: char 500ms linear;
 }
 @keyframes char {
   0% {
-    top: 50px;
+    top: 150px;
   }
   30% {
-    top: 150px;
+    top: 100px;
   }
   70% {
-    top: 150px;
+    top: 100px;
   }
   100% {
-    top: 50px;
+    top: 150px;
   }
 }
 #block {
