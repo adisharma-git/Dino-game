@@ -7,5 +7,4 @@ Feel free to give your Suggestions as they are very valuable to me.<br>
 ****FEEL FREE TO HIT ME UP.**** <br>
 
 CONTACT:[MAIL](mailto:tech.adishar@gmail.com)
-<br>
-WEBSITE LINK: [DINO_GAME]{https://adisharma-git.github.io/Dino-game/}
+WEBSITE:[link](https://adisharma-git.github.io/Dino-game/).
