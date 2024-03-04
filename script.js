@@ -23,6 +23,8 @@ var checkdead = setInterval(function () {
   if (blockleft < 20 && blockleft > 0 && charactertop >= 130) {
     block.style.animation = "none";
     block.style.display = "none";
+    document.getElementById("p").innerHTML = "SCORE HERE: " + counter;
+
     alert("GAME OVER! Score:" + counter);
   }
 }, 10);
